@@ -42,10 +42,6 @@ Windows:
 git clone https://github.com/riddhikapil30/Clone-Website.git
 ```
 
-### Contact
-
-If you want to contact with me you can reach me at [LinkedIn](https://www.linkedin.com/riddhikapil30).
-
 ### License
 
 This project is **free to use** and does not contains any license.
